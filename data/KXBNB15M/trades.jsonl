@@ -3,3 +3,10 @@
 {"yes_price": 0.97, "count": 4.0, "no_price": "0.0300", "taker_side": "yes", "created_time": "2026-08-18T11:12:39.471297+00:00", "ticker": "KXBNB15M-26AUG180715-15", "series": "KXBNB15M", "ts": 1787051559.4713876}
 {"yes_price": 0.978, "count": 2.0, "no_price": "0.0220", "taker_side": "no", "created_time": "2026-08-18T11:12:45.455908+00:00", "ticker": "KXBNB15M-26AUG180715-15", "series": "KXBNB15M", "ts": 1787051565.4560003}
 {"yes_price": 0.977, "count": 2.0, "no_price": "0.0230", "taker_side": "no", "created_time": "2026-08-18T11:12:45.582982+00:00", "ticker": "KXBNB15M-26AUG180715-15", "series": "KXBNB15M", "ts": 1787051565.5830786}
+{"yes_price": 0.979, "count": 91.0, "no_price": "0.0210", "taker_side": "yes", "created_time": "2026-08-18T11:14:50.573799+00:00", "ticker": "KXBNB15M-26AUG180715-15", "series": "KXBNB15M", "ts": 1787051690.5738945}
+{"yes_price": 0.979, "count": 70.0, "no_price": "0.0210", "taker_side": "yes", "created_time": "2026-08-18T11:14:50.818280+00:00", "ticker": "KXBNB15M-26AUG180715-15", "series": "KXBNB15M", "ts": 1787051690.8183749}
+{"yes_price": 0.979, "count": 10.0, "no_price": "0.0210", "taker_side": "yes", "created_time": "2026-08-18T11:14:51.094428+00:00", "ticker": "KXBNB15M-26AUG180715-15", "series": "KXBNB15M", "ts": 1787051691.0945892}
+{"yes_price": 0.98, "count": 3.0, "no_price": "0.0200", "taker_side": "yes", "created_time": "2026-08-18T11:14:51.326270+00:00", "ticker": "KXBNB15M-26AUG180715-15", "series": "KXBNB15M", "ts": 1787051691.3263795}
+{"yes_price": 0.98, "count": 5.0, "no_price": "0.0200", "taker_side": "yes", "created_time": "2026-08-18T11:14:51.564285+00:00", "ticker": "KXBNB15M-26AUG180715-15", "series": "KXBNB15M", "ts": 1787051691.5644276}
+{"yes_price": 0.98, "count": 2.0, "no_price": "0.0200", "taker_side": "yes", "created_time": "2026-08-18T11:14:51.818483+00:00", "ticker": "KXBNB15M-26AUG180715-15", "series": "KXBNB15M", "ts": 1787051691.8185873}
+{"yes_price": 0.98, "count": 0.13, "no_price": "0.0200", "taker_side": "yes", "created_time": "2026-08-18T11:14:54.203759+00:00", "ticker": "KXBNB15M-26AUG180715-15", "series": "KXBNB15M", "ts": 1787051694.203861}

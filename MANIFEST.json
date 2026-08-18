@@ -1,14 +1,14 @@
 {
   "dataset": "Kalshi Crypto 15-Minute Prediction Market Dataset",
   "version": "2026-08-18",
-  "last_updated": "2026-08-18T11:13:00.505191+00:00",
+  "last_updated": "2026-08-18T11:19:06.642585+00:00",
   "update_frequency": "every 24 hours",
   "format": "jsonl",
   "license": "CC BY 4.0",
   "totals": {
     "training_rows": 90367,
-    "raw_snapshots": 94023,
-    "live_fills": 121
+    "raw_snapshots": 94133,
+    "live_fills": 306
   },
   "assets": {
     "KXBTC15M": {
@@ -16,21 +16,21 @@
       "cadence": "0.25s",
       "training_rows": 19627,
       "raw_snapshots": 36097,
-      "live_fills": 11
+      "live_fills": 127
     },
     "KXETH15M": {
       "asset": "Ethereum (ETH)",
       "cadence": "0.5s",
       "training_rows": 11343,
-      "raw_snapshots": 11822,
-      "live_fills": 9
+      "raw_snapshots": 11826,
+      "live_fills": 11
     },
     "KXSOL15M": {
       "asset": "Solana (SOL)",
       "cadence": "1.0s",
       "training_rows": 7603,
       "raw_snapshots": 4772,
-      "live_fills": 8
+      "live_fills": 10
     },
     "KXXRP15M": {
       "asset": "Ripple (XRP)",
@@ -43,36 +43,36 @@
       "asset": "Dogecoin (DOGE)",
       "cadence": "1.0s",
       "training_rows": 10007,
-      "raw_snapshots": 9661,
-      "live_fills": 11
+      "raw_snapshots": 9713,
+      "live_fills": 55
     },
     "KXBNB15M": {
       "asset": "Binance Coin (BNB)",
       "cadence": "1.0s",
       "training_rows": 12294,
-      "raw_snapshots": 12045,
-      "live_fills": 5
+      "raw_snapshots": 12053,
+      "live_fills": 12
     },
     "KXHYPE15M": {
       "asset": "Hyperliquid (HYPE)",
       "cadence": "1.0s",
       "training_rows": 8165,
-      "raw_snapshots": 6482,
-      "live_fills": 9
+      "raw_snapshots": 6488,
+      "live_fills": 10
     },
     "KXNEAR15M": {
       "asset": "NEAR Protocol (NEAR)",
       "cadence": "1.0s",
       "training_rows": 8224,
-      "raw_snapshots": 6676,
+      "raw_snapshots": 6711,
       "live_fills": 0
     },
     "KXZEC15M": {
       "asset": "Zcash (ZEC)",
       "cadence": "1.0s",
       "training_rows": 6716,
-      "raw_snapshots": 3567,
-      "live_fills": 17
+      "raw_snapshots": 3572,
+      "live_fills": 30
     }
   }
 }

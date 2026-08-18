@@ -7,3 +7,4 @@
 {"yes_price": 0.54, "count": 1.0, "no_price": "0.4600", "taker_side": "no", "created_time": "2026-08-18T11:11:27.182455+00:00", "ticker": "KXHYPE15M-26AUG180715-15", "series": "KXHYPE15M", "ts": 1787051487.1825602}
 {"yes_price": 0.54, "count": 40.0, "no_price": "0.4600", "taker_side": "no", "created_time": "2026-08-18T11:11:27.400191+00:00", "ticker": "KXHYPE15M-26AUG180715-15", "series": "KXHYPE15M", "ts": 1787051487.4002876}
 {"yes_price": 0.76, "count": 62.0, "no_price": "0.2400", "taker_side": "yes", "created_time": "2026-08-18T11:12:36.914153+00:00", "ticker": "KXHYPE15M-26AUG180715-15", "series": "KXHYPE15M", "ts": 1787051556.9142513}
+{"yes_price": 0.73, "count": 7.29, "no_price": "0.2700", "taker_side": "no", "created_time": "2026-08-18T11:14:32.243417+00:00", "ticker": "KXHYPE15M-26AUG180715-15", "series": "KXHYPE15M", "ts": 1787051672.2435126}
