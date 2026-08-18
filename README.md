@@ -196,6 +196,6 @@ This dataset is licensed under the **Creative Commons Attribution 4.0 Internatio
 
 ## Updates & Maintenance
 
-This dataset is **refreshed automatically every 24 hours** via a scheduled pipeline (`scripts/build_dataset.py`). Each refresh appends newly collected data, updates row counts, and bumps the version in `MANIFEST.json`.
+This dataset is **refreshed automatically every 24 hours** Each refresh appends newly collected data, updates row counts, and bumps the version in `MANIFEST.json`.
 
 Issues, feature requests, and contributions are welcome — see [CONTRIBUTING.md](CONTRIBUTING.md).
