@@ -8,3 +8,4 @@
 {"yes_price": 0.947, "count": 0.01, "no_price": "0.0530", "taker_side": "no", "created_time": "2026-08-18T11:10:36.934176+00:00", "ticker": "KXBTC15M-26AUG180715-15", "series": "KXBTC15M", "ts": 1787051436.9343073}
 {"yes_price": 0.947, "count": 200.0, "no_price": "0.0530", "taker_side": "no", "created_time": "2026-08-18T11:10:37.094901+00:00", "ticker": "KXBTC15M-26AUG180715-15", "series": "KXBTC15M", "ts": 1787051437.0950527}
 {"yes_price": 0.947, "count": 147.35, "no_price": "0.0530", "taker_side": "no", "created_time": "2026-08-18T11:10:37.262538+00:00", "ticker": "KXBTC15M-26AUG180715-15", "series": "KXBTC15M", "ts": 1787051437.2626314}
+{"yes_price": 0.995, "count": 0.19, "no_price": "0.0050", "taker_side": "yes", "created_time": "2026-08-18T11:12:48.608752+00:00", "ticker": "KXBTC15M-26AUG180715-15", "series": "KXBTC15M", "ts": 1787051568.6088479}
